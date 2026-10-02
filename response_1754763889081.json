@@ -1,0 +1,13 @@
+{
+  "results": [
+    {
+      "text": "¿Que apuestan a que de inmediato el @PartidoMorenaMx saldrá a encubrir a sus socios criminales y tirarse al piso con el tema de la soberanía?",
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8609,
+      "processing_time": 0.1679,
+      "timestamp": "2025-08-09T12:24:49.064848"
+    }
+  ],
+  "total_processed": 1,
+  "average_processing_time": 0.1679
+}

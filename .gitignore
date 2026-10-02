@@ -1,0 +1,9 @@
+﻿# Binarios e instaladores de Tesseract
+**/teseract/
+# Cache de Python
+__pycache__/
+*.pyc
+# Archivos pesados o locales
+*.zip
+*.pt
+*.lnk

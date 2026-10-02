@@ -1,0 +1,48 @@
+[
+  {
+    "success": true,
+    "detections": [
+      {
+        "class_id": 4,
+        "class_name": "airplane",
+        "confidence": 0.9118648767471313,
+        "bbox": {
+          "x1": 79.71621704101562,
+          "y1": 67.97736358642578,
+          "x2": 1038.0491943359375,
+          "y2": 326.6794128417969
+        }
+      }
+    ],
+    "image_shape": [
+      430,
+      1120,
+      3
+    ],
+    "processing_time_ms": 2687.7992153167725,
+    "message": "Successfully detected 1 objects"
+  },
+  {
+    "success": true,
+    "detections": [
+      {
+        "class_id": 4,
+        "class_name": "airplane",
+        "confidence": 0.9118648767471313,
+        "bbox": {
+          "x1": 79.71621704101562,
+          "y1": 67.97736358642578,
+          "x2": 1038.0491943359375,
+          "y2": 326.6794128417969
+        }
+      }
+    ],
+    "image_shape": [
+      430,
+      1120,
+      3
+    ],
+    "processing_time_ms": 83.55021476745605,
+    "message": "Successfully detected 1 objects"
+  }
+]
